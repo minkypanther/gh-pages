@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Publii-1</title>
+    <link href="https://minkypanther.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://minkypanther.github.io/gh-pages" />
+    <updated>2018-08-29T08:42:10-04:00</updated>
+    <author>
+        <name>Author name: Goes here</name>
+    </author>
+    <id>https://minkypanther.github.io/gh-pages</id>
+
+    <entry>
+        <title>Contact us -Post-1</title>
+        <author>
+            <name>Author name: Goes here</name>
+        </author>
+        <link href="https://minkypanther.github.io/gh-pages/post-1.html"/>
+        <id>https://minkypanther.github.io/gh-pages/post-1.html</id>
+
+        <updated>2018-08-29T08:41:14-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://minkypanther.github.io/gh-pages/media/posts/1/" alt="" />
+                     Post-1 Goes Here Backnode helps you to edit the images and texts of your website in a simple and efficient way. You do not need to learn to code, you just have to open Backnode and you're done ! 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://minkypanther.github.io/gh-pages/media/posts/1/" alt="" />
+                <p> </p>
+<h1 class="heading1"><span style="color: #000000;">A new editing tool</span></h1>
+<p class="normal"><span style="color: #000000;">Post-1 Goes Here</span></p>
+<p class="normal"><span style="color: #000000;">Backnode helps you to edit the images and texts of your website in a simple and efficient way. You do not need to learn to code, you just have to open Backnode and you're done ! </span></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

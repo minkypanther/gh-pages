@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Publii-1",
+    "description": "",
+    "home_page_url": "https://minkypanther.github.io/gh-pages",
+    "feed_url": "https://minkypanther.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Author name: Goes here"
+    },
+    "items": [
+        {
+            "id": "https://minkypanther.github.io/gh-pages/post-1.html",
+            "url": "https://minkypanther.github.io/gh-pages/post-1.html",
+            "title": "Contact us -Post-1",
+            "summary": " Post-1 Goes Here Backnode helps you to edit the images and texts of your website in a simple and efficient way. You do not need to learn to code, you just have to open Backnode and you're done ! ",
+            "content_html": "<p> </p>\n<h1 class=\"heading1\"><span style=\"color: #000000;\">A new editing tool</span></h1>\n<p class=\"normal\"><span style=\"color: #000000;\">Post-1 Goes Here</span></p>\n<p class=\"normal\"><span style=\"color: #000000;\">Backnode helps you to edit the images and texts of your website in a simple and efficient way. You do not need to learn to code, you just have to open Backnode and you're done ! </span></p>",
+            "image": "https://minkypanther.github.io/gh-pages/media/posts/1/",
+            "author": {
+                "name": "Author name: Goes here"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-08-29T07:56:17-04:00",
+            "date_modified": "2018-08-29T08:41:14-04:00"
+        }
+    ]
+}
